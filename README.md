@@ -1,4 +1,4 @@
-# Livro-Pdf-Traslate
+# Tradutor de Livros em PDF - Automatizado
 | Tradutor de Livros em PDF | Programa Full Stack em Python com API GPT.
 ```markdown
 ⚠️ **Em Desenvolvimento:** Este projeto ainda está em fase de desenvolvimento. Recursos ainda estão sendo implementados.
