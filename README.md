@@ -49,4 +49,4 @@ Fique à vontade para contribuir com melhorias ou correções. Abra uma issue pa
 
 ## Licença
 
-Projeto sob a Licença Pública Geral GNU Versão 3 - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
+Projeto sob a Licença Pública Geral GNU Versão 3 - veja o arquivo [LICENSE](LICENSE) para detalhes.
