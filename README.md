@@ -4,12 +4,12 @@
 ⚠️ **Em Desenvolvimento:** Este projeto ainda está em fase de desenvolvimento. Recursos ainda estão sendo implementados.
 ```
 
-Este é um projeto Python que utiliza a API GPT da OpenAI para traduzir livros em PDF de uma língua para outra. Foi criado para ajudar pessoas que queiram ler livros ou ligh novels que só estão disponíveis em inglês, dando uma tradução automatizada.
+Este é um projeto Python que utiliza as APIs da OpenAI, GoogleTranslate e DeepL para traduzir livros em formato PDF de uma língua para outra. Foi criado com o objetivo de auxiliar pessoas que desejam ler livros ou light novels disponíveis apenas em uma língua que não compreendem, proporcionando uma tradução automatizada.
 
 ## Funcionalidades
 
 - **Processamento de PDF:** Extrai texto de livros em formato PDF.
-- **Tradução com GPT:** Utiliza a API GPT para traduzir o texto extraído para a língua desejada.
+- **Tradução com APIs de terceiros:** Se utiliza a API do GoogleTranslate para traduzir o texto extraído para a língua desejada.
 
 ## Requisitos
 
