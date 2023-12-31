@@ -3,7 +3,6 @@
 ```markdown
 ⚠️ **Em Desenvolvimento:** Este projeto ainda está em fase de desenvolvimento. Recursos ainda estão sendo implementados.
 ```
-# Tradutor de Livros
 
 Este é um projeto Python que utiliza a API GPT da OpenAI para traduzir livros em PDF de uma língua para outra. Foi criado para ajudar pessoas que queiram ler livros ou ligh novels que só estão disponíveis em inglês, dando uma tradução automatizada.
 
@@ -14,7 +13,9 @@ Este é um projeto Python que utiliza a API GPT da OpenAI para traduzir livros e
 
 ## Requisitos
 
+```bash
 ???
+```
 
 ## Configuração
 
